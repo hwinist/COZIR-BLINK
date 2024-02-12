@@ -1,5 +1,5 @@
 The target of this project is long-term CO2 measurement in a closed container with limited space and limited power supply.
-Due to the given restrictions (Space, power supply, wireless operation), I chose the folllowing hardware components:
+Due to the given restrictions (space, power supply, wireless operation), I chose the folllowing hardware components:
 - Raspberry Pi Pico W
 - CozIR®-Blink CO2 Sensor by GSS: https://www.gassensing.co.uk/product/cozir-blink-co2-sensor/
 
