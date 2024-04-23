@@ -35,7 +35,7 @@ def data_ready_thread():
 
 # Return firmware version and sensor serial number from COZIR -> AT commend to COZIR: "Y"
 uart.write('Y\r\n')
-utime.sleep(1)
+utime.sleep(2)
 firm_ser = uart.read()
 print("Firmware and serial number:")
 print(firm_ser)
