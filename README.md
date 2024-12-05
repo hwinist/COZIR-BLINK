@@ -1,6 +1,6 @@
 The target of this project is long-term CO2 measurement in a closed container with limited space and limited power supply.
 Due to the given restrictions (space, power supply, wireless operation), I chose the folllowing hardware components:
-- Tinypico, a ESP32 development board by Unexpected Maker
+- Tinypico, a ESP32 development board by Unexpected Maker: https://www.tinypico.com/
 - CozIR®-LP 5000 CO2 Sensor by GSS: https://www.co2meter.com/products/cozir-lp-ambient-air-co2-sensor
 
 I have decided to use Micropython on Thonny 4.1.4.
