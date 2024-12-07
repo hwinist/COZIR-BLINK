@@ -2,6 +2,7 @@ The target of this project is long-term CO2 measurement in a closed glass contai
 Due to the given restrictions (space, power supply, wireless operation), I chose the folllowing hardware components:
 - Tinypico, a ESP32 development board by Unexpected Maker: https://www.tinypico.com/
 - CozIR®-LP 5000 CO2 Sensor by GSS: https://www.co2meter.com/products/cozir-lp-ambient-air-co2-sensor
+- 600mAh, 3.7V Lithium Ion Polymer (LiPo) Rechargeable battery pack taken from UPS Module for Raspberry Pi Pico by Waveshare: https://www.waveshare.com/pico-ups-b.htm
 
 I have decided to use Micropython on Thonny 4.1.4 IDE.
 My challenge: I am completely new to programming and am learning on the project.
